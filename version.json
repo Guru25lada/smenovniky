@@ -1,0 +1,14 @@
+{
+  "smenovnik": {
+    "versionCode": 1,
+    "versionName": "1.0",
+    "apkUrl": "https://github.com/Guru25lada/smenovniky/releases/download/v1.0/smenovnik.apk",
+    "releaseNotes": "Původní verze kalendáře směn bez výpočtu platu."
+  },
+  "smenyplat": {
+    "versionCode": 1,
+    "versionName": "1.0-SmenyPlat",
+    "apkUrl": "https://github.com/Guru25lada/smenovniky/releases/download/v1.0/smenyplat.apk",
+    "releaseNotes": "Nová verze kalendáře směn s komplexním výpočtem mzdy a výplaty."
+  }
+}
