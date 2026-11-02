@@ -2,13 +2,13 @@
   "smenovnik": {
     "versionCode": 2,
     "versionName": "1.1",
-    "apkUrl": "https://github.com/Guru25lada/smenovniky/releases/download/v1.0/smenovnik.apk",
+    "apkUrl": "https://raw.githubusercontent.com/Guru25lada/smenovniky/main/smenovnik.apk",
     "releaseNotes": "Původní verze aplikace Směnovník bez výpočtu platu."
   },
   "smenyplat": {
     "versionCode": 2,
     "versionName": "1.1-SmenyPlat",
-    "apkUrl": "https://github.com/Guru25lada/smenovniky/releases/download/v1.0/smenyplat.apk",
+    "apkUrl": "https://raw.githubusercontent.com/Guru25lada/smenovniky/main/smenyplat.apk",
     "releaseNotes": "Nová verze Směny a Plat s komplexním mzdovým výpočtem."
   }
 }
